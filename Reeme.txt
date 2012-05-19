@@ -1,0 +1,6 @@
+
+Para ejecutar el juego debemos realizar lo siguiente:
+	1ºNos identificamos en nuestra base de datos mysql
+	2ºIntroducimos el fichero basededatos.sql estos nos creara la base de datos para guardas las puntuaciones obtenida en el juego
+	3º (Opcional), introducimos el fichero insertar.py, para ello $:python insertar.py, esto nos creara unos registros en la base de datos
+	4ºUna vez realizado lo anterior, ya podemos inicial el juego, para ello $:python jugar.py
